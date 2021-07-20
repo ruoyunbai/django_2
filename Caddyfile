@@ -1,0 +1,6 @@
+:2015 {
+encode zstd gzip
+templates
+file_server browse
+}
+
